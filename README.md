@@ -1,3 +1,12 @@
+# Albert Von Dunkelheim
+#### Hard Fork of the Dracula theme for Albert
+
+_I intend to iterate upon my own dark theme to match my other display components, starting from a very popular one that is already pretty close._
+
+_I may submit bug fixes to the upstream if I find any, but I sincerely doubt they'd be interested in my thematic changes, so those shall remain in Forksville._
+
+_As one may surmise, the directions below reflect the state of the upstream README at the time of the initial forking. I have left them untainted._
+
 # Dracula for [Albert](https://albertlauncher.github.io)
 
 > A dark theme for [Albert](https://albertlauncher.github.io).
